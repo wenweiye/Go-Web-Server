@@ -1,0 +1,23 @@
+{"level":"DEBUG","time":"2022-04-03T22:57:33.647+0800","caller":"Go-web-server/main.go:32","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-03T22:59:42.582+0800","caller":"Go-web-server/main.go:32","msg":"logger init success"}
+{"level":"ERROR","time":"2022-04-03T22:59:42.582+0800","caller":"mysql/mysql.go:24","msg":"connect DB failed, err:%v\n","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2022-04-04T12:52:19.673+0800","caller":"Go-web-server/main.go:32","msg":"logger init success"}
+{"level":"ERROR","time":"2022-04-04T12:52:19.725+0800","caller":"mysql/mysql.go:25","msg":"connect DB failed, err:%v\n","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-04-04T12:54:27.549+0800","caller":"Go-web-server/main.go:32","msg":"logger init success"}
+{"level":"ERROR","time":"2022-04-04T12:54:27.552+0800","caller":"mysql/mysql.go:25","msg":"connect DB failed, err:%v\n","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-04-04T12:55:10.741+0800","caller":"Go-web-server/main.go:32","msg":"logger init success"}
+{"level":"ERROR","time":"2022-04-04T12:55:10.743+0800","caller":"mysql/mysql.go:25","msg":"connect DB failed, err:%v\n","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-04-04T12:55:30.104+0800","caller":"Go-web-server/main.go:32","msg":"logger init success"}
+{"level":"ERROR","time":"2022-04-04T12:55:30.107+0800","caller":"mysql/mysql.go:25","msg":"connect DB failed, err:%v\n","error":"Error 1045: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"DEBUG","time":"2022-04-04T12:57:28.363+0800","caller":"Go-web-server/main.go:32","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-04T12:57:28.365+0800","caller":"Go-web-server/main.go:40","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-04T15:43:03.761+0800","caller":"Go-web-server/main.go:32","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-04T15:43:03.767+0800","caller":"Go-web-server/main.go:40","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-04T15:43:03.767+0800","caller":"Go-web-server/main.go:49","msg":"redis init success"}
+{"level":"INFO","time":"2022-04-04T15:50:36.597+0800","caller":"Go-web-server/main.go:72","msg":"Shutdown server"}
+{"level":"INFO","time":"2022-04-04T15:50:36.599+0800","caller":"Go-web-server/main.go:81","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-04-04T16:03:35.464+0800","caller":"Go-web-server/main.go:37","msg":"logger init success"}
+{"level":"DEBUG","time":"2022-04-04T16:03:35.466+0800","caller":"Go-web-server/main.go:45","msg":"mysql init success"}
+{"level":"DEBUG","time":"2022-04-04T16:03:35.466+0800","caller":"Go-web-server/main.go:54","msg":"redis init success"}
+{"level":"INFO","time":"2022-04-04T16:03:40.525+0800","caller":"Go-web-server/main.go:77","msg":"Shutdown server"}
+{"level":"INFO","time":"2022-04-04T16:03:40.527+0800","caller":"Go-web-server/main.go:86","msg":"Server exiting"}
